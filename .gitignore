@@ -1,0 +1,5 @@
+venv /
+__pycharm__/
+*.pyc
+students.db
+.env
