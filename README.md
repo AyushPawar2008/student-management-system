@@ -13,7 +13,7 @@ A Python-based Student Management Systeem built using Streamlit and SQLite.
 - SQLite database
 
 ## Technologies Used
-- python
+- Python
 - Streamlit
 - SQLite
 - Pandas
